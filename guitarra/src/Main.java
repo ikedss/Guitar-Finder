@@ -5,7 +5,6 @@
 //Você quer 22 ou 24 casas?
 //Você quer 6, 7 ou 8 cordas?
 //
-//Leonardo Ikeda, Daniel Nowak Assis e Danilo Alecrim Almeida
 
 import java.util.*;
 
